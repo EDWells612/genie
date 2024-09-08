@@ -1,0 +1,9 @@
+pandas
+streamlit
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+mlxtend
+st-gsheets-connection
